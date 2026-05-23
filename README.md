@@ -78,8 +78,6 @@ Zajmuję się cyberbezpieczeństwem zarówno od strony **ofensywnej (Red Team)**
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Andrev0dev&theme=matrix&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrev0dev&layout=compact&theme=matrix&hide_border=true)
-
 </div>
 
 ---
